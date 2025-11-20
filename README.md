@@ -39,10 +39,9 @@ The projects explore fundamental and advanced concepts of Image Processing using
 
 
 ## Course Details
+* **Author:** Mahsa Goodarzi
 * **Course:** Computer Graphics
 * **Institution:** Amirkabir University of Technology (Tehran Polytechnic)
 * **Instructor:** Dr. Mostafa Shamsi
 * **Semester:** Fall 2024
 
----
-*This repository is for educational purposes.*
