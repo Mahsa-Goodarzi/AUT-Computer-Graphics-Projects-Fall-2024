@@ -1,6 +1,6 @@
-# Computer Graphics Course Projects (Fall 2024)
+# Computer Graphics (Image Processing) Course Projects (Fall 2024)
 
-This repository contains a collection of practical assignments and projects developed for the **Computer Graphics** course at **Amirkabir University of Technology (Fall 2024)**.
+This repository contains a collection of practical assignments and projects developed for the **Computer Graphics (Image Processing)** course at **Amirkabir University of Technology (Fall 2024)**.
 
 The projects explore fundamental and advanced concepts of Image Processing using **Python**, **OpenCV**, **NumPy**, and **Matplotlib**. Each notebook focuses on specific techniques ranging from basic pixel manipulation to frequency domain analysis.
 
@@ -40,7 +40,7 @@ The projects explore fundamental and advanced concepts of Image Processing using
 
 ## Course Details
 * **Author:** Mahsa Goodarzi
-* **Course:** Computer Graphics
+* **Course:** Computer Graphics (Image Processing)
 * **Institution:** Amirkabir University of Technology (Tehran Polytechnic)
 * **Instructor:** Dr. Mostafa Shamsi
 * **Semester:** Fall 2024
